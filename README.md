@@ -1,22 +1,4 @@
-<h1 align="center">
-  <br>
-  <a href="https://github.com/0xinfection"><img src="https://i.imgur.com/9R5cXB6.png" alt="XSRFProbe"></a>
-</h1>
 
-<p align="center">  
-  <a href="https://docs.python.org/3/download.html">
-    <img src="https://img.shields.io/badge/Python-3.x-green.svg">
-  </a>
-  <a href="https://github.com/0xinfection/XSRFProbe/releases">
-    <img src="https://img.shields.io/badge/Version-v2.0%20(stable)-blue.svg">
-  </a>
-  <a href="https://github.com/0xinfection/XSRFProbe/blob/master/LICENSE">
-    <img src="https://img.shields.io/badge/License-GPLv3-orange.svg">
-  </a> 
-  <a href="https://travis-ci.org/0xInfection/XSRFProbe">
-    <img src="https://img.shields.io/badge/Build-Passing-brightgreen.svg?logo=travis">
-  </a>
-</p>
 
 ### About [XSRFProbe](https://github.com/0xinfection/xsrfprobe/wiki/)
 __XSRFProbe__ is an advanced [Cross Site Request Forgery](https://www.owasp.org/index.php/Cross-Site_Request_Forgery_(CSRF)) (CSRF/XSRF) Audit and Exploitation Toolkit. Equipped with a Powerful Crawling Engine and Numerous Systematic Checks, it is now able to detect most cases of CSRF vulnerabilities, their related bypasses and futher generate (maliciously) exploitable proof of concepts with each found vulnerability. For more info on how XSRFProbe works, see [XSRFProbe Internals](https://github.com/0xInfection/XSRFProbe/wiki#xsrfprobe-internals) on [wiki](https://github.com/0xInfection/XSRFProbe/wiki/). 
@@ -69,4 +51,3 @@ Usage of XSRFProbe for testing websites without prior mutual consistency can be 
 ### Author's Words:
 This project is based __entirely upon my own research and my own experience with web applications__ on Cross-Site Request Forgery attacks. You can try going through the source code which is highly documented to help you understand how this toolkit was built. Useful [pull requests](https://github.com/0xInfection/XSRFProbe/wiki/Contributing), [ideas and issues](https://github.com/0xInfection/XSRFProbe/wiki/Reporting-Bugs#before-submitting) are highly welcome. If you wish to see what how XSRFProbe is being developed, check out the [Development Board](https://github.com/0xInfection/XSRFProbe/projects/1).
 
-> Copyright © [__Infected Drake__](https://www.twitter.com/0xInfection)
